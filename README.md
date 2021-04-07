@@ -1,3 +1,4 @@
+
 Original App Design Project - README
 ===
 
@@ -108,7 +109,7 @@ videos, and text that will be displayed to the event's timeline.
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+![modelsPost](https://user-images.githubusercontent.com/50221165/113946296-e5347c00-97bc-11eb-8d44-36432d963917.png)
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
