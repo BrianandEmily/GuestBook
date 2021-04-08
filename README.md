@@ -108,12 +108,11 @@ videos, and text that will be displayed to the event's timeline.
 
 ## Schema 
 ### Models
-![modelsPost](https://user-images.githubusercontent.com/50221165/113947380-612fc380-97bf-11eb-8697-f68e089b0263.png)
-
+![modelsPost](https://user-images.githubusercontent.com/50221165/114090620-83cbe600-986c-11eb-9918-5bf079a26484.png)
 
 ### Networking
 List of network requests by screen
-- Event Feed Screen
+- Timeline Feed Screen
   - (Read/GET) Query all posts where event is author
   ![eventCode](https://user-images.githubusercontent.com/50221165/114090159-ea043900-986b-11eb-9292-223e8e34a243.png)
   
