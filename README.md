@@ -118,7 +118,9 @@ List of network requests by screen
 - Creation Screen
   - (Create/POST) Create a new post object
 - Edit Details Screen
-  - (Read/GET) Query logged in user/event object
+  - (Read/GET) Query logged in event object
   - (Update/PUT) Update event time, date, name. 
+- Join Event Screen
+   - (Read/GET) Query logged in event object
 
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
