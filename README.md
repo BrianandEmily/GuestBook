@@ -117,6 +117,9 @@ List of network requests by screen
   ![eventCode](https://user-images.githubusercontent.com/50221165/114090159-ea043900-986b-11eb-9292-223e8e34a243.png)
 - Creation Screen
   - (Create/POST) Create a new post object
+- Edit Details Screen
+  - (Read/GET) Query logged in user/event object
+  - (Update/PUT) Update event time, date, name. 
 
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
