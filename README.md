@@ -107,14 +107,16 @@ videos, and text that will be displayed to the event's timeline.
 
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
 ![modelsPost](https://user-images.githubusercontent.com/50221165/113947380-612fc380-97bf-11eb-8697-f68e089b0263.png)
 
 
 ### Networking
-- [Add list of network requests by screen ]
-- Home Screen
-  - 
+List of network requests by screen
+- Event Feed Screen
+  - (Read/GET) Query all posts where event is author
+  ![eventCode](https://user-images.githubusercontent.com/50221165/114090159-ea043900-986b-11eb-9292-223e8e34a243.png)
+  
+
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
