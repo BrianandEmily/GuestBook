@@ -122,5 +122,3 @@ List of network requests by screen
   - (Update/PUT) Update event time, date, name. 
 - Join Event Screen
    - (Read/GET) Query logged in event object
-
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
