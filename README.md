@@ -115,7 +115,8 @@ List of network requests by screen
 - Timeline Feed Screen
   - (Read/GET) Query all posts where event is author
   ![eventCode](https://user-images.githubusercontent.com/50221165/114090159-ea043900-986b-11eb-9292-223e8e34a243.png)
-  
+- Creation Screen
+  - (Create/POST) Create a new post object
 
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
