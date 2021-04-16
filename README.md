@@ -126,10 +126,10 @@ List of network requests by screen
 ## MILESTONE 1
 - [X] Create Parse server
 - [ ] Login
-   - => Mostly completed. Need to do some debugging which will be completed by next milestone.
+   - Mostly completed. Need to do some debugging which will be completed by next milestone.
 - [ ] Create new account
-   - => Mostly completed. Need to do some debugging which will be completed by next milestone.
+   - Mostly completed. Need to do some debugging which will be completed by next milestone.
 - [ ] Post
-   - => Moved to next Milestone
+   - Moved to next Milestone
    
 <img src="BnEGuestBookM1.gif" width=600>
