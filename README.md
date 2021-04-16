@@ -122,3 +122,14 @@ List of network requests by screen
   - (Update/PUT) Update event time, date, name. 
 - Join Event Screen
    - (Read/GET) Query logged in event object
+
+==MILESTONE 1==
+[x] Create Parse server
+[ ] Login
+   => Mostly completed. Need to do some debugging which will be completed by next milestone.
+[ ] Create new account
+   => Mostly completed. Need to do some debugging which will be completed by next milestone.
+[ ] Post
+   => Moved to next Milestone
+   
+<img src="BnEGuestBookM1.gif" width=600>
