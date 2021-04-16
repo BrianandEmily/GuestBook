@@ -131,5 +131,10 @@ List of network requests by screen
    - Mostly completed. Need to do some debugging which will be completed by next milestone.
 - [ ] Post
    - Moved to next Milestone
+
+### Issues
+- Toasts are not working (will be solved by next Milestone)
+- No navigation to MainActivity (will be solved by next Milestone)
+- New users are not showing up in Parse database (will be solved by next Milestone)
    
 <img src="BnEGuestBookM1.gif" width=600>
