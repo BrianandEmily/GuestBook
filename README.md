@@ -153,6 +153,5 @@ List of network requests by screen
 
 ### Issues
 - Some text on Edit Details page won't allow user input
-- Still having issues with showing logout button
    
 <img src="" width=600>
