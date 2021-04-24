@@ -138,3 +138,21 @@ List of network requests by screen
 - New users are not showing up in Parse database (will be solved by next Milestone)
    
 <img src="BnEGuestBookM1.gif" width=600>
+
+## MILESTONE 2
+- [X] Login
+- [X] Create new account
+- [ ] Post
+   - .xml created, working on connecting it to other activities 
+- [ ] Create event
+   - .xml and logic generated, passes info to TimelineActivity; working on UI/UX on Timeline Activity
+- [ ] Timeline
+   - Need to finish Post step before we can populate Timeline
+- [ ] Edit event details
+   - No navigation back to Edit Details yet, will need to create an adapter
+
+### Issues
+- Some text on Edit Details page won't allow user input
+- Still having issues with showing logout button
+   
+<img src="" width=600>
