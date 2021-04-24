@@ -154,4 +154,4 @@ List of network requests by screen
 ### Issues
 - Some text on Edit Details page won't allow user input
    
-<img src="" width=600>
+<img src="BnEGuestBookM2.gif" width=600>
