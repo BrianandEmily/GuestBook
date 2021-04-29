@@ -155,3 +155,20 @@ List of network requests by screen
 - Some text on Edit Details page won't allow user input
    
 <img src="BnEGuestBookM2.gif" width=600>
+
+## MILESTONE 3
+- [X] Post
+- [X] Create event
+- [ ] Timeline
+   - Working on logic for this now. Changed direction of this story a bit, pushing this issue to the last milestone.
+- [ ] Edit event details
+   - Removing this as a required feature for now.
+
+### Issues
+- No actual issues. Updated the concept for the TimelineActivity to incorporate a real-time slideshow instead of a scrolling feature.
+- Since we are changing the direction of the app a little bit, the navigation is not finished yet.
+
+### Looking Ahead
+- Working on finalizing UI/UX which will be fully incorporated by next Milestone
+   
+<img src="BnEGuestBookM3.gif" width=600>
