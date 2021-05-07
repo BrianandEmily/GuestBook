@@ -172,3 +172,18 @@ List of network requests by screen
 - Working on finalizing UI/UX which will be fully incorporated by next Milestone
    
 <img src="BnEGuestBookM3.gif" width=600>
+
+## MILESTONE 4
+- [X] Timeline
+- [X] Sign into events
+- [X] Polish UI/UX
+
+### Issues
+- Issues with implementing slideshow feature.
+
+### Updated Wireframe (Ideal Design)
+
+<img src="GBWFHost.png" width=600>
+
+   
+<img src="BnEGuestBookM4.gif" width=600>
